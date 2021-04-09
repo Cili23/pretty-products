@@ -68,13 +68,13 @@ ol ul {
 }
 
 .btn {
-border-radius: 3em;
-background-color: #6f00e7;
-color: #fff;
-text-decoration: none;
-font-family: Oswald, sans-serif;
-padding: .5em 1.5em .7em;
-font-weight: bold;
+  border-radius: 3em;
+  background-color: #6f00e7;
+  color: #fff;
+  text-decoration: none;
+  font-family: Oswald, sans-serif;
+  padding: .5em 1.5em .7em;
+  font-weight: bold;
 }
 
 ul li {
@@ -89,7 +89,7 @@ ul a img {
   margin-right: .25em;
 }
 
-aul a {
+ul a {
   display: flex;
   justify-content: start;
   align-items: center;
